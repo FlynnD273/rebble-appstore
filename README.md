@@ -1,18 +1,10 @@
-# Welcome to React Router!
+# ![](./app/icons/rebble.svg) Welcome to the [Rebble Appstore!](https://apps.rebble.io/)
 
-A modern, production-ready template for building full-stack React applications using React Router.
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+The appstore we all know and love, rewritten in React.
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- Redesigned, modern UI
 
 ## Getting Started
 
